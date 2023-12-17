@@ -1,0 +1,32 @@
+{
+  "name": "vision-his-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/binarios/vision-his-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/binarios/vision-his-cypress/issues"
+  },
+  "homepage": "https://bitbucket.org/binarios/vision-his-cypress#readme",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "@faker-js/faker": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^5.57.0",
+    "cypress": "^13.5.0",
+    "eslint": "^8.37.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-cypress": "^2.14.0",
+    "eslint-plugin-sonarjs": "^0.19.0",
+    "prettier": "^2.8.7",
+    "typescript": "^5.0.2"
+  }
+}
